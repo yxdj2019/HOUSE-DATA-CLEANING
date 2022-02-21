@@ -65,3 +65,4 @@ from house_data) as new_table1
 where Sale_row_number>1)
 
 --
+--
